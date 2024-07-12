@@ -1,0 +1,205 @@
+invoice_number,invoice_date,revenue_transaction_type,branch_name,solution_group,Account Exe ID,Account Executive,income_class,client_name,policy_number,Amount,income_due_date
+1900001087,4/11/2019,Fees,Ahmedabad,Liability,,Neel Jain,New,I,,84746,4/10/2019
+1900001106,5/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,2.4142020928136E+018,86724,1/1/2019
+1900001110,5/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,S,OG-19-2202-1018-00000060,148500,3/1/2019
+1900001136,5/30/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,V,OG-19-2202-3383-00000010,12019,1/1/2019
+1900001164,6/11/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,I,020P000098803000,12500,2/26/2019
+1900001165,6/11/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Shloka Shelat,New,I,206314000000,58300,2/16/2019
+1900001167,6/13/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,A,OG-19-2202-3383-00000009,12019,1/1/2019
+1900001168,6/13/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,C,OG-19-2202-3383-00000008,30048,1/1/2019
+1900001169,6/13/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,3.1242015891006E+018,14394,1/2/2019
+1900001282,7/13/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,32392,5/10/2019
+1900001293,7/16/2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Cross Sell,M,'001P000202300000,162500,4/5/2019
+1900001294,7/16/2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Cross Sell,M,'001P000203500000,250000,4/18/2019
+1900001304,7/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,I,2280082714,2646,3/11/2019
+1900001305,7/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,,F,8502066,18150,1/3/2019
+1900001306,7/17/2019,Brokerage,Ahmedabad,Liability,2,Abhinav Shivam,Cross Sell,L,"2999202758217600000""",60025,4/22/2019
+1900001308,7/17/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,G,9.90000441903E+019,134736,4/25/2019
+1900001342,7/23/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,S,H0048996,914999,1/1/2019
+1900001354,7/24/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,P,3.1142027482102E+018,2942,4/11/2019
+1900001355,7/24/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,M,OG-19-2202-1002-00001981,6740,3/4/2019
+1900001356,7/24/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,OG-19-2202-1002-00001901,6740,2/17/2019
+1900001361,7/27/2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,T,41045707,74250,4/1/2019
+1900001376,7/29/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0056637,1614,3/11/2019
+1900001377,7/29/2019,Brokerage,Ahmedabad,Marine,13,Vidit Shah,Cross Sell,P,'99000021180100000013,11540,1/29/2019
+1900001385,7/31/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,,S,P0019200001/9999/100301,2140,1/30/2019
+1900001388,7/31/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,0000000008502066-01,45375,3/1/2019
+1900001390,7/31/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,M,32119154,11593,4/1/2019
+1900001392,7/31/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,46995,1/29/2019
+1900001393,7/31/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,M,OG-19-2202-4010-00002245,529,2/18/2019
+1900001394,7/31/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,B,OG-19-2202-1018-00000059,18563,3/1/2019
+1900001396,7/31/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,27435,1/23/2019
+1900001397,7/31/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,W,505373-01,25336,2/26/2019
+1900001398,7/31/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,W,H0067187,10772,3/14/2019
+1900001403,7/31/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,W,H0067187,9283,4/18/2019
+1900001404,7/31/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,W,H0067187,6903,5/30/2019
+1900001405,7/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",,Vidit Shah,Renewal,P,'99000044190700000001,90663,4/1/2019
+1900001583,8/14/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,T,100200080123/01/00,156000,1/4/2019
+1900001602,8/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,V,OG-19-2202-1018-00000054,21157,1/1/2019
+1900001603,8/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,C,OG-19-2202-1018-00000053,77787,1/1/2019
+1900001604,8/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,M,OG-19-2202-4001-00011127,8468,2/18/2019
+1900001605,8/17/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,A,237164239 00,1825,2/1/2019
+1900001606,8/17/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,W,H0067187,329250,2/28/2019
+1900001607,8/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,304003763,344794,4/1/2019
+1900001608,8/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,2304001082-01,37500,4/1/2019
+1900001609,8/17/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,S,H0056637,49789,1/1/2019
+1900001610,8/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,G,0600010004 01,64,3/16/2019
+1900001611,8/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,I,0000000008907502-01,6250,2/24/2019
+1900002041,8/28/2019,Brokerage,Ahmedabad,Trade Credit &amp; Political Risk,,Gautam Murkunde,Renewal,T,1.31000501801E+019,124875,3/7/2019
+1900002042,8/28/2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,S,43190133,7783,6/11/2019
+1900002043,8/28/2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,S,43189992,7835,6/10/2019
+1900002044,8/28/2019,Brokerage,Ahmedabad,Liability,,Shloka Shelat,New,F,41045400,70125,3/19/2019
+1900002045,8/28/2019,Brokerage,Ahmedabad,Liability,,Shloka Shelat,New,F,41045403,70125,3/19/2019
+1900002046,8/28/2019,Brokerage,Ahmedabad,Property / BI,,Vidit Shah,Renewal,P,'99000046192400000001,60229,4/1/2019
+1900002047,8/28/2019,Brokerage,Ahmedabad,Property / BI,,Vidit Shah,Renewal,P,'99000011180100000303,98931,1/16/2019
+1900002048,8/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,A,OG-19-2202-1018-00000055,21769,1/1/2019
+1900002049,8/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,G,0640002231 04,65369,4/17/2019
+1900002050,8/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,D,304003761,5206,4/1/2019
+1900002051,8/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,N,0301004265-1,23750,3/9/2019
+1900002052,8/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,G,0600010004 02,1557,4/16/2019
+1900002072,8/28/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,P,'99000044190300000004,40960,4/20/2019
+1900002229,8/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",,Vidit Shah,Renewal,P,'99000044180700000012,12055,2/14/2019
+1900002230,8/31/2019,Brokerage,Ahmedabad,Property / BI,,Vidit Shah,Renewal,P,'99000011180100000340,131090,2/26/2019
+1900002232,8/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",,Vidit Shah,Renewal,P,'99000044185800000014,27069,2/14/2019
+1900002265,8/31/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,4092/151965577/01/000,215165,4/1/2019
+1900002331,9/3/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,5002/131802941/02/000,870,5/26/2019
+1900002384,9/5/2019,Brokerage,Ahmedabad,Trade Credit &amp; Political Risk,,Gautam Murkunde,,M,2000010048,8174,7/18/2019
+1900002387,9/5/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,S,4016/120415654/03/00,22246,7/14/2019
+1900002458,9/9/2019,Brokerage,Ahmedabad,Liability,,Shloka Shelat,New,P,43187020,7451,4/22/2019
+1900002464,9/9/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,W,H0067187,7110,7/29/2019
+1900002472,9/9/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,4006/131284920/02/000,692,5/15/2019
+1900002635,9/17/2019,Brokerage,Ahmedabad,Trade Credit &amp; Political Risk,,Gautam Murkunde,Renewal,P,NBI Domestic,65051,1/1/2019
+1900002636,9/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,4001/117090005/03/000,1005,5/1/2019
+1900002637,9/17/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,W,H0067187,6259,6/21/2019
+1900002638,9/17/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,9941,7/10/2019
+1900002639,9/17/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,M,2600015265 00,9990,5/23/2019
+1900002640,9/17/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,B,4016/133979727/02/000,74673,6/29/2019
+1900002880,9/20/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,G,0640002231 03,4362,4/2/2019
+1900003129,9/30/2019,Brokerage,Ahmedabad,Property / BI,,Vidit Shah,Renewal,P,'99000011180100000339,1610,2/14/2019
+1900003131,9/30/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,3.1142011248202E+018,20166,7/1/2019
+1900003209,10/10/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,B,4005/134645920/02/000,8605,6/29/2019
+1900003210,10/10/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,F,4101190600000030-00,52500,5/17/2019
+1900003211,10/10/2019,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Cross Sell,P,'99000036181500000054,21875,2/1/2019
+1900003212,10/10/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,93906,3/7/2019
+1900003213,10/10/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,S,54407334,23387,1/1/2019
+1900003214,10/10/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,S,AG00059046000100,3347,4/1/2019
+1900003404,10/17/2019,Brokerage,Ahmedabad,Liability,2,Abhinav Shivam,Cross Sell,L,2.9992028733098E+018,60025,7/8/2019
+1900003405,10/17/2019,Brokerage,Ahmedabad,Marine,,Vidit Shah,Renewal,E,2412/202063061201000,13613,1/7/2019
+1900003406,10/17/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Shobhit Agarwal,New,A,4101190700000015-00,79834,6/25/2019
+1900003407,10/17/2019,Brokerage,Ahmedabad,Liability,2,Abhinav Shivam,Cross Sell,L,2.9992028732742E+018,60025,7/8/2019
+1900003928,11/12/2019,Brokerage,Ahmedabad,Liability,10,Mark,Cross Sell,M,14055133,63000,7/26/2019
+1900003930,11/12/2019,Fees,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,P,,100000,7/17/2019
+1900003931,11/12/2019,Fees,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,P,,100000,1/21/2019
+1900004171,11/26/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,S,,254336,1/25/2019
+1900004173,11/26/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,G,,266949,1/25/2019
+1900004220,12/3/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,W,54445288,11111,2/28/2019
+1900004221,12/3/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,S,9.90000441903E+019,3008,4/12/2019
+1900004376,12/5/2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,G,43193940,6184,8/7/2019
+1900004378,12/5/2019,Brokerage,Ahmedabad,Property / BI,,Shloka Shelat,New,K,YB00020403000100,1568,2/8/2019
+1900004380,12/5/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,18901,9/14/2019
+1900004382,12/5/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,27682,8/14/2019
+1900004383,12/5/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,W,H0067187,5501,10/21/2019
+1900004384,12/5/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,P,4016 138636598 02 000,123750,9/30/2019
+1900004404,12/6/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-0425-00000017,825,7/1/2019
+1900004408,12/6/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-9931-00032558,1556,7/1/2019
+1900004411,12/6/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-4004-00000064,12350,7/1/2019
+1900004474,12/9/2019,Brokerage,Ahmedabad,Marine,3,Animesh Rawat,Cross Sell,N,2412 2020 7182 9001 000,15593,1/12/2019
+1900004500,12/9/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,S,9.90000441903E+017,2212,4/10/2019
+1900004501,12/9/2019,Brokerage,Ahmedabad,Employee Benefits (EB),3,Animesh Rawat,Cross Sell,N,54522170,9056,7/9/2019
+1900004503,12/10/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-3304-00000009,1897,7/1/2019
+1900004505,12/10/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-3383-00000002,42500,7/1/2019
+1900004507,12/10/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-4002-00000010,10917,7/1/2019
+1900004518,12/10/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-4010-00000869,3375,7/1/2019
+1900004535,12/10/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,1011/142530053/01/000,320175,12/6/2019
+1900004535,12/10/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,3.1242015891006E+018,320175,12/6/2019
+1900004535,12/10/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,OG-19-2202-1018-00000052,320175,12/6/2019
+1900004538,12/10/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,S,OG-20-2202-3315-00000009,168593,5/28/2019
+1900004538,12/10/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,S,P0019200001/9999/100301,168593,5/28/2019
+1900004894,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,T,43196279,2970,9/22/2019
+1900004898,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,C,3.1142029633601E+018,7022,8/26/2019
+1900004909,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,G,0301004728-2019,202350,9/30/2019
+1900004912,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,G,3.213400201191E+023,87500,7/31/2019
+1900004917,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,G,22515779,44260,9/30/2019
+1900004919,12/19/2019,Brokerage,Ahmedabad,Property / BI,,Shobhit Agarwal,New,G,9.90000461901E+019,11550,9/8/2019
+1900004920,12/19/2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),,Shobhit Agarwal,New,G,9.90000111903E+019,43033,9/8/2019
+1900004922,12/19/2019,Brokerage,Ahmedabad,Property / BI,,Shobhit Agarwal,New,G,9.90000461901E+019,7700,9/8/2019
+1900004923,12/19/2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),,Shobhit Agarwal,New,G,9.90000111903E+019,72139,9/8/2019
+1900004928,12/19/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,G,9.90000441903E+019,32585,9/11/2019
+1900004933,12/19/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,G,9.90000441903E+019,8045,9/22/2019
+1900004983,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,0000000010619837-01,26968,10/25/2019
+1900004984,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,0000000007404252-02,2437,10/26/2019
+1900004985,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,OG-19-2202-1018-00000052,53278,1/1/2019
+1900004986,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,OG-19-2202-3383-00000007,30048,1/1/2019
+1900004987,12/19/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,P,3.1142029974273E+018,12500,9/19/2019
+1900005036,12/20/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,M,ER00004563000100,3854,4/30/2019
+1900005300,12/24/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,304003763,132392,12/20/2019
+1900005300,12/24/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,1003/126704810/02/000,132392,12/20/2019
+1900005300,12/24/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,2.4142020928136E+018,132392,12/20/2019
+1900005300,12/24/2019,Fees,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,M,4092/151965577/01/000,132392,12/20/2019
+1900005324,12/24/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,S,9.90000441903E+019,26805,11/19/2019
+1900005325,12/24/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Shloka Shelat,Renewal,S,43191791,956,7/3/2019
+1900005329,12/24/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,A,3.1142029634362E+018,2089,8/26/2019
+1900005331,12/24/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,T,OG-20-2202-1005-00000171-2019,8580,9/21/2019
+1900005394,12/25/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-4004-00000062,60713,7/1/2019
+1900005395,12/25/2019,Brokerage,Ahmedabad,Marine,,Divya Dhingra,Renewal,G,22531899,50160,10/27/2019
+1900005396,12/25/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,,G,OG-19-2202-1018-00000047,71765,10/26/2019
+1900005439,12/25/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,P,'99000044180300000048,62399,11/14/2019
+1900005516,12/26/2019,Brokerage,Ahmedabad,Liability,10,Mark,Cross Sell,O,2280014070,27530,3/9/2019
+1900005526,12/26/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,A,180876-0000-01,60000,4/1/2019
+1900005527,12/26/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,C,1.203004619248E+019,77400,8/10/2019
+1900005528,12/26/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,C,1.203004619248E+019,302812,8/10/2019
+1900005529,12/26/2019,Brokerage,Ahmedabad,Property / BI,,Vidit Shah,Renewal,H,'0655001664 03,275569,3/1/2019
+1900005530,12/26/2019,Brokerage,Ahmedabad,Liability,,Vidit Shah,Renewal,H,'0304001755,320000,1/31/2019
+1900005531,12/26/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,S,3393,114752,11/1/2019
+1900005532,12/26/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0056637,49027,2/4/2019
+1900005555,12/26/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,P,'99000044180300000078,153332,10/19/2019
+1900005760,12/28/2019,Brokerage,Ahmedabad,Marine,,Shobhit Agarwal,New,ABC,2.4142027811737E+018,23591,5/1/2019
+1900005761,12/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,F,OG-20-2202-3315-00000012,19181,8/2/2019
+1900005767,12/28/2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),,Shobhit Agarwal,New,G,2.30600111803E+019,8228,2/28/2019
+1900005768,12/28/2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),,Shobhit Agarwal,,G,2.30600111803E+019,5241,7/12/2019
+1900005769,12/28/2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),,Shobhit Agarwal,,G,9.90000461908E+019,13154,10/10/2019
+1900005770,12/28/2019,Brokerage,Ahmedabad,Small Medium Enterpries (SME),,Shobhit Agarwal,New,G,9.90000461908E+019,14461,9/8/2019
+1900005771,12/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,H,2019-L0138835-FWC,2853,6/23/2019
+1900005772,12/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,H,2019-L0139704-PBL,495,6/23/2019
+1900005773,12/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,,H,2018-F0513845-BSS,5891,2/4/2019
+1900005774,12/28/2019,Brokerage,Ahmedabad,Property / BI,3,Animesh Rawat,Cross Sell,N,OG-20-2202-4004-00000043,4596,5/16/2019
+1900005775,12/28/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,S,9.90000441803E+019,21443,7/3/2019
+1900005776,12/28/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,S,9.90000441803E+019,21442,10/20/2019
+1900005777,12/28/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,S,9.90000441803E+019,21443,3/16/2019
+1900005778,12/28/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,S,9.90000441803E+019,17949,7/3/2019
+1900005779,12/28/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",3,Animesh Rawat,Cross Sell,S,9.90000441803E+019,17949,3/16/2019
+1900005780,12/28/2019,Brokerage,Ahmedabad,Property / BI,,Shloka Shelat,New,S,PFS/I3353707/71/01/006343,7889,1/12/2019
+1900005781,12/28/2019,Brokerage,Ahmedabad,Liability,3,Animesh Rawat,Cross Sell,S,3.1142031258439E+018,8198,10/25/2019
+1900005782,12/28/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,18697,3/11/2019
+1900005783,12/28/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,17140,10/11/2019
+1900005784,12/28/2019,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,,S,H0048996,8561,11/14/2019
+1900005785,12/28/2019,Brokerage,Ahmedabad,Liability,,Shloka Shelat,Renewal,T,43191787,6213,7/3/2019
+1900005786,12/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,T,OG-20-2202-4097-00000201,8625,9/21/2019
+1900005787,12/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,T,OG-20-2202-4097-00000170,4579,9/21/2019
+1900005788,12/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,,T,OG-19-2202-1005-00000153,1980,6/14/2019
+1900005789,12/28/2019,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,T,OG-20-2202-4097-00000171,3330,9/21/2019
+1900005910,12/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,P,'99000044180300000047,90282,2/27/2019
+1900005911,12/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,P,'99000044180300000048,68639,5/14/2019
+1900005912,12/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,P,'99000044180300000047,90282,8/27/2019
+1900005913,12/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,P,'99000044180300000047,90282,5/27/2019
+1900005915,12/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,P,'99000044180300000076,67102,3/27/2019
+1900005959,12/31/2019,Brokerage,Ahmedabad,Liability,,Vidit Shah,Renewal,H,'0300004329,125000,1/31/2019
+1900005960,12/31/2019,Brokerage,Ahmedabad,Trade Credit &amp; Political Risk,,Gautam Murkunde,Renewal,M,TBA,115781,7/28/2019
+1900005961,12/31/2019,Brokerage,Ahmedabad,Liability,,Vidit Shah,Renewal,C,'23060036180200000022,137500,1/1/2019
+1900005962,12/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,P,'99000044180300000078,208093,3/25/2019
+1900005964,12/31/2019,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",2,Abhinav Shivam,Cross Sell,P,'99000044180300000078,153332,7/7/2019
+1900005965,12/31/2019,Brokerage,Ahmedabad,Liability,,Vidit Shah,Renewal,C,'91000036191700000002,131250,5/23/2019
+2000001072,1/3/2020,Brokerage,Ahmedabad,Marine,,Shobhit Agarwal,,S,2.4142025629034E+018,56100,3/8/2019
+2000001076,1/3/2020,Brokerage,Ahmedabad,Marine,,Vidit Shah,Renewal,H,0830016972 02,50333,3/1/2019
+2000001082,1/3/2020,Brokerage,Ahmedabad,Liability,,Vidit Shah,Renewal,T,41046110,74250,4/9/2019
+2000001083,1/3/2020,Brokerage,Ahmedabad,Employee Benefits (EB),,Shloka Shelat,Renewal,N,4101191100000008-00,48929,11/10/2019
+2000001086,1/3/2020,Brokerage,Ahmedabad,Global Client Network (GNB Inward),1,Vinay,Cross Sell,P,1.11200441808E+019,49401,1/3/2019
+2000001563,1/16/2020,Brokerage,Ahmedabad,Marine,,Shloka Shelat,New,S,MCO/I3350570/71/01/006343,9075,1/12/2019
+2000001567,1/16/2020,Brokerage,Ahmedabad,"Construction, Power & Infrastructure",13,Vidit Shah,Cross Sell,M,'11120044180300000011,24072,3/13/2019
+2000001570,1/16/2020,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,T,LPGPA0000000200/01,5550,1/4/2019
+2000001575,1/16/2020,Brokerage,Ahmedabad,Property / BI,13,Vidit Shah,Cross Sell,P,'99000046192400000039,10938,6/12/2019
+2000001579,1/16/2020,Brokerage,Ahmedabad,Emerging Corporates Group (ECG),3,Animesh Rawat,Cross Sell,S,2280038722,2789,7/15/2019
+2000001583,1/16/2020,Brokerage,Ahmedabad,Marine,,Shobhit Agarwal,,S,2.4142025629034E+018,14025,10/22/2019
+2000001589,1/16/2020,Brokerage,Ahmedabad,Global Client Network (GNB Inward),,Divya Dhingra,Renewal,G,32099602-01,1112,1/23/2019
+2000001598,1/16/2020,Brokerage,Ahmedabad,Employee Benefits (EB),,Ankita Shah,Renewal,F,2.9992015408021E+018,4302,11/1/2019
+2000001604,1/16/2020,Brokerage,Ahmedabad,Liability,13,Vidit Shah,Cross Sell,H,'2302003268,21875,2/11/2019
